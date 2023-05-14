@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/dice-roller-app/static/css/main.bbe85f0c.css",
+    "main.js": "/dice-roller-app/static/js/main.9ff2a9b4.js",
+    "static/js/787.9c379135.chunk.js": "/dice-roller-app/static/js/787.9c379135.chunk.js",
+    "static/media/6.png": "/dice-roller-app/static/media/6.7314092cf2e027f0861f.png",
+    "static/media/5.png": "/dice-roller-app/static/media/5.b0b1de7586254b09e0c6.png",
+    "static/media/4.png": "/dice-roller-app/static/media/4.9c77d96dce9d714afccd.png",
+    "static/media/2.png": "/dice-roller-app/static/media/2.7b2573a587b14babc4a8.png",
+    "static/media/3.png": "/dice-roller-app/static/media/3.6f00af050bff1470d734.png",
+    "static/media/1.png": "/dice-roller-app/static/media/1.2b4a1acc1ae8dc484445.png",
+    "index.html": "/dice-roller-app/index.html",
+    "main.bbe85f0c.css.map": "/dice-roller-app/static/css/main.bbe85f0c.css.map",
+    "main.9ff2a9b4.js.map": "/dice-roller-app/static/js/main.9ff2a9b4.js.map",
+    "787.9c379135.chunk.js.map": "/dice-roller-app/static/js/787.9c379135.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbe85f0c.css",
+    "static/js/main.9ff2a9b4.js"
+  ]
+}
